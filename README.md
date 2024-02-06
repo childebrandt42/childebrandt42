@@ -16,6 +16,11 @@ I do a fair bit of blogging and writeups on code written here at my website is [
 
 ## :rotating_light: Last 10 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [As Built Report for VMware Universal Access Gateway &lpar;UAG&rpar;](https://childebrandt42.blog/2024/02/05/as-built-report-for-vmware-universal-access-gateway-uag/)
+- [Cracking the Code: Navigating VMware’s Lack of API Documentation for App Volumes – One Victory at a Time](https://childebrandt42.blog/2024/01/30/cracking-the-code-navigating-vmwares-lack-of-api-documentation-for-app-volumes-one-victory-at-a-time/)
+- [Unleashing the App Volumes 4.x API via Edge or Chrome, Empowering Operations with PowerShell](https://childebrandt42.blog/2024/01/16/mastering-automation-unleashing-the-app-volumes-4-x-api-via-edge-or-chrome-empowering-operations-with-powershell-for-peak-efficiency/)
+- [As Built Report for VMware App Volumes updated for 2309](https://childebrandt42.blog/2024/01/02/as-built-report-for-vmware-app-volumes-updated-for-2309/)
+- [As Built Report for VMware Horizon Updates](https://childebrandt42.blog/2023/12/20/as-built-report-for-vmware-horizon-updates/)
 <!-- BLOG-POST-LIST:END -->
 <!--
 

@@ -22,10 +22,15 @@ I do a fair bit of blogging and writeups on code written here at my website is [
 - [As Built Report for VMware App Volumes updated for 2309](https://childebrandt42.blog/2024/01/02/as-built-report-for-vmware-app-volumes-updated-for-2309/)
 - [As Built Report for VMware Horizon Updates](https://childebrandt42.blog/2023/12/20/as-built-report-for-vmware-horizon-updates/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+## :toilet: GitHub Stats
+
+![Childebrandt42's GitHub stats](https://github-readme-stats.vercel.app/api?username=childebrandt42&show_icons=true&theme=algolia)
+![Childebrandt42's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=childebrandt42&hide_progress=false&theme=algolia)
+
+
 <!--
-
-![Childebrandt42's GitHub stats](https://github-readme-stats.vercel.app/api?childebrandt42=anuraghazra&show_icons=true&theme=radical)
-
 
 **childebrandt42/childebrandt42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

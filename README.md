@@ -19,6 +19,9 @@ I do a fair bit of blogging and writeups on code written here at my website is [
 <!-- BLOG-POST-LIST:END -->
 <!--
 
+![Childebrandt42's GitHub stats](https://github-readme-stats.vercel.app/api?childebrandt42=anuraghazra&show_icons=true&theme=radical)
+
+
 **childebrandt42/childebrandt42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

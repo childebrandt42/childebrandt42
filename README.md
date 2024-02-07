@@ -21,6 +21,11 @@ I do a fair bit of blogging and writeups on code written here at my website is [
 - [Unleashing the App Volumes 4.x API via Edge or Chrome, Empowering Operations with PowerShell](https://childebrandt42.blog/2024/01/16/mastering-automation-unleashing-the-app-volumes-4-x-api-via-edge-or-chrome-empowering-operations-with-powershell-for-peak-efficiency/)
 - [As Built Report for VMware App Volumes updated for 2309](https://childebrandt42.blog/2024/01/02/as-built-report-for-vmware-app-volumes-updated-for-2309/)
 - [As Built Report for VMware Horizon Updates](https://childebrandt42.blog/2023/12/20/as-built-report-for-vmware-horizon-updates/)
+- [Commvault Cloud: A Customer-Centric Evolution in Data Assurance](https://childebrandt42.blog/2023/11/23/commvault-cloud-a-customer-centric-evolution-in-data-assurance/)
+- [App Volumes Bug with 2306 and Horizon Apps on Demand Intergration API](https://childebrandt42.blog/2023/10/25/app-volumes-bug-with-2306-and-horizon-apps-on-demand-intergration-api/)
+- [Prosimo: A Game-Changer in Cloud Networking CFD18](https://childebrandt42.blog/2023/10/18/prosimo-a-game-changer-in-cloud-networking-cfd18/)
+- [Cloud Field Day 18 Mezmo](https://childebrandt42.blog/2023/10/18/cloud-field-day-18-mezmo/)
+- [Your environment will be breached!!! Wait what did you say? Not mine! Commvault’s June 2023 Security Release.](https://childebrandt42.blog/2023/07/03/your-environment-will-be-breached-wait-what-did-you-say-not-mine-commvaults-june-2023-security-release/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

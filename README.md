@@ -57,29 +57,13 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 ---
 # :bar_chart: GitHub Stats
 
-![Childebrandt42's GitHub stats](https://github-readme-stats.vercel.app/api?username=childebrandt42&show_icons=true&theme=algolia)
+![Childebrandt42's GitHub stats](https://github-readme-stats.vercel.app/api?username=childebrandt42&show_icons=true&theme=algolia&hide_rank=true)
 ![Childebrandt42's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=childebrandt42&hide_progress=false&theme=algolia)
 
 # :pushpin: Pinned Posts
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=childebrandt42&repo=AsBuiltReport.VMware.Horizon)](https://github.com/childebrandt42/AsBuiltReport.VMware.Horizon)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=childebrandt42&repo=AsBuiltReport.VMware.AppVolumes)](https://github.com/childebrandt42/AsBuiltReport.VMware.AppVolumes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=childebrandt42&repo=AsBuiltReport.VMware.UAG)](https://github.com/childebrandt42/AsBuiltReport.VMware.UAG)
-
-
-<!--
-
-**childebrandt42/childebrandt42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img src="https://komarev.com/ghpvc/?username=your-github-childebrandt42&style=flat-square&color=blue" alt=""/>
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=childebrandt42&repo=AsBuiltReport.VMware.HorizonCloud)](https://github.com/childebrandt42/AsBuiltReport.VMware.HorizonCloud)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=childebrandt42&repo=AsBuiltReport.VMware.WorkspaceOneAccess)](https://github.com/childebrandt42/AsBuiltReport.VMware.WorkspaceOneAccess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=childebrandt42&repo=AsBuiltReport.VMware.WorkspaceOneUEM)](https://github.com/childebrandt42/AsBuiltReport.VMware.WorkspaceOneUEM)

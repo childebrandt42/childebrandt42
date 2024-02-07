@@ -1,20 +1,46 @@
-### Hello, Im Chris Hildebrandt👋
+### Hello, Im Chris Hildebrandt :tumbler_glass:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZqOGQO6ZMSqUYDHj0T/giphy.gif" width="200"/>
 </div>
 
+# :link: Social Media Links
 [![Linkedin Badge](https://img.shields.io/badge/childebrandt42-linkedin-%230077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/childebrandt42)](https://www.linkedin.com/in/childebrandt42)
 [![X Badge](https://img.shields.io/badge/@childebrandt42-X-%23000000?style=flat&labelColor=1ca0f1&logo=X&logoColor=white&link=https://twitter.com/childebrandt42)](https://twitter.com/childebrandt42)
 [![Mastodon Badge](https://img.shields.io/badge/@childebrandt42-MASTODON-%232B90D9?style=flat&logo=mastodon&logoColor=white&link=https://vmst.io/@childebrandt42)](https://vmst.io/@childebrandt42)
 [![Reddit](https://img.shields.io/badge/childebrandt42-Reddit-FF4500?style=flat&logo=reddit&logoColor=white&link=https://www.reddit.com/user/childebrandt42)](https://www.reddit.com/user/childebrandt42)
 
 
-## :green_book: Blog
+# :technologist: About Me 
+Currently im a Sr Consultant deploying EUC technologies for customers, and providing automation skills where it fits. I have worked in various rolls through my long IT career, but my favorite are the EUC fields and Automation, So in my spare time I find ways to merge the two worlds together! 
 
-I do a fair bit of blogging and writeups on code written here at my website is [https://childebrandt42.blog](https://childebrandt42.blog).
+## :trophy: Accomplishments
+* :military_helmet: Army Veteran
+* vExpert 2014 to Current
+* Cisco Champion 2015 to 2022
+* LoginVSI Technology Advocate 2018 (Only Customer to be awarded this award!)
+* Ex-VMUG leader
+* Co-Founder of ETC/KC technology community
 
-## :rotating_light: Last 10 Blog posts
+# :hammer: Technologies & Tools
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=blue)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-Vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Technologies-VMware-informational?style=flat&logo=vmware&logoColor=white&color=blue)
+
+# :notebook: Blog
+I do a fair bit of blogging and write-ups on code written here at my website is:
+
+### [https://childebrandt42.blog](https://childebrandt42.blog)
+
+![alt text](https://childebrandt42.files.wordpress.com/2023/11/childebrandt42-logo-white-2.png?w=300) 
+
+<br>
+
+# :rotating_light: Last 10 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [As Built Report for VMware Universal Access Gateway &lpar;UAG&rpar;](https://childebrandt42.blog/2024/02/05/as-built-report-for-vmware-universal-access-gateway-uag/)
 - [Cracking the Code: Navigating VMware’s Lack of API Documentation for App Volumes – One Victory at a Time](https://childebrandt42.blog/2024/01/30/cracking-the-code-navigating-vmwares-lack-of-api-documentation-for-app-volumes-one-victory-at-a-time/)
@@ -29,10 +55,15 @@ I do a fair bit of blogging and writeups on code written here at my website is [
 <!-- BLOG-POST-LIST:END -->
 
 ---
-## :toilet: GitHub Stats
+# :bar_chart: GitHub Stats
 
 ![Childebrandt42's GitHub stats](https://github-readme-stats.vercel.app/api?username=childebrandt42&show_icons=true&theme=algolia)
 ![Childebrandt42's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=childebrandt42&hide_progress=false&theme=algolia)
+
+# :pushpin: Pinned Posts
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=childebrandt42&repo=AsBuiltReport.VMware.Horizon)](https://github.com/childebrandt42/AsBuiltReport.VMware.Horizon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=childebrandt42&repo=AsBuiltReport.VMware.AppVolumes)](https://github.com/childebrandt42/AsBuiltReport.VMware.AppVolumes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=childebrandt42&repo=AsBuiltReport.VMware.UAG)](https://github.com/childebrandt42/AsBuiltReport.VMware.UAG)
 
 
 <!--

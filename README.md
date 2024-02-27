@@ -42,6 +42,7 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 
 # :rotating_light: Last 10 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The greatest coding tool to date! GitHub Copilot long term review.](https://childebrandt42.blog/2024/02/27/the-greatest-coding-tool-to-date-github-copilot-long-time-review/)
 - [App Volumes Usage Report: Decoding the Signals for Retiring Old Applications with Precision](https://childebrandt42.blog/2024/02/13/app-volumes-usage-report-decoding-the-signals-for-retiring-old-applications-with-precision/)
 - [As Built Report for VMware Universal Access Gateway &lpar;UAG&rpar;](https://childebrandt42.blog/2024/02/05/as-built-report-for-vmware-universal-access-gateway-uag/)
 - [Cracking the Code: Navigating VMware’s Lack of API Documentation for App Volumes – One Victory at a Time](https://childebrandt42.blog/2024/01/30/cracking-the-code-navigating-vmwares-lack-of-api-documentation-for-app-volumes-one-victory-at-a-time/)
@@ -51,7 +52,6 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 - [Commvault Cloud: A Customer-Centric Evolution in Data Assurance](https://childebrandt42.blog/2023/11/23/commvault-cloud-a-customer-centric-evolution-in-data-assurance/)
 - [App Volumes Bug with 2306 and Horizon Apps on Demand Intergration API](https://childebrandt42.blog/2023/10/25/app-volumes-bug-with-2306-and-horizon-apps-on-demand-intergration-api/)
 - [Prosimo: A Game-Changer in Cloud Networking CFD18](https://childebrandt42.blog/2023/10/18/prosimo-a-game-changer-in-cloud-networking-cfd18/)
-- [Cloud Field Day 18 Mezmo](https://childebrandt42.blog/2023/10/18/cloud-field-day-18-mezmo/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

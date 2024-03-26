@@ -42,6 +42,7 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 
 # :rotating_light: Last 10 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [In-depth User Inactivity Analysis for VMware Horizon Environment](https://childebrandt42.blog/2024/03/26/in-depth-user-inactivity-analysis-for-vmware-horizon-environment/)
 - [Horizon Usage Report: Understanding your users, well maybe!](https://childebrandt42.blog/2024/03/12/horizon-usage-report-understanding-your-users-well-maybe/)
 - [The greatest coding tool to date! GitHub Copilot long term review.](https://childebrandt42.blog/2024/02/27/the-greatest-coding-tool-to-date-github-copilot-long-time-review/)
 - [App Volumes Usage Report: Decoding the Signals for Retiring Old Applications with Precision](https://childebrandt42.blog/2024/02/13/app-volumes-usage-report-decoding-the-signals-for-retiring-old-applications-with-precision/)
@@ -51,7 +52,6 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 - [As Built Report for VMware App Volumes updated for 2309](https://childebrandt42.blog/2024/01/02/as-built-report-for-vmware-app-volumes-updated-for-2309/)
 - [As Built Report for VMware Horizon Updates](https://childebrandt42.blog/2023/12/20/as-built-report-for-vmware-horizon-updates/)
 - [Commvault Cloud: A Customer-Centric Evolution in Data Assurance](https://childebrandt42.blog/2023/11/23/commvault-cloud-a-customer-centric-evolution-in-data-assurance/)
-- [App Volumes Bug with 2306 and Horizon Apps on Demand Intergration API](https://childebrandt42.blog/2023/10/25/app-volumes-bug-with-2306-and-horizon-apps-on-demand-intergration-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

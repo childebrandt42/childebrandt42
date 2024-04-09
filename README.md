@@ -42,6 +42,7 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 
 # :rotating_light: Last 10 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Login Enterprise Custom Session Metrics](https://childebrandt42.blog/2024/04/09/login-enterprise-custom-session-metrics/)
 - [In-depth User Inactivity Analysis for VMware Horizon Environment](https://childebrandt42.blog/2024/03/26/in-depth-user-inactivity-analysis-for-vmware-horizon-environment/)
 - [Horizon Usage Report: Understanding your users, well maybe!](https://childebrandt42.blog/2024/03/12/horizon-usage-report-understanding-your-users-well-maybe/)
 - [The greatest coding tool to date! GitHub Copilot long term review.](https://childebrandt42.blog/2024/02/27/the-greatest-coding-tool-to-date-github-copilot-long-time-review/)
@@ -51,7 +52,6 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 - [Unleashing the App Volumes 4.x API via Edge or Chrome, Empowering Operations with PowerShell](https://childebrandt42.blog/2024/01/16/mastering-automation-unleashing-the-app-volumes-4-x-api-via-edge-or-chrome-empowering-operations-with-powershell-for-peak-efficiency/)
 - [As Built Report for VMware App Volumes updated for 2309](https://childebrandt42.blog/2024/01/02/as-built-report-for-vmware-app-volumes-updated-for-2309/)
 - [As Built Report for VMware Horizon Updates](https://childebrandt42.blog/2023/12/20/as-built-report-for-vmware-horizon-updates/)
-- [Commvault Cloud: A Customer-Centric Evolution in Data Assurance](https://childebrandt42.blog/2023/11/23/commvault-cloud-a-customer-centric-evolution-in-data-assurance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

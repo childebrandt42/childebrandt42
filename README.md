@@ -42,6 +42,7 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 
 # :rotating_light: Last 10 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Secrets: A Guide to Windows Credential Manager in PowerShell](https://childebrandt42.blog/2024/04/23/unlocking-secrets-a-guide-to-windows-credential-manager-in-powershell/)
 - [Commvault Cleanroom Recovery](https://childebrandt42.blog/2024/04/22/commvault-cleanroom-recovery/)
 - [Login Enterprise Custom Session Metrics](https://childebrandt42.blog/2024/04/09/login-enterprise-custom-session-metrics/)
 - [In-depth User Inactivity Analysis for VMware Horizon Environment](https://childebrandt42.blog/2024/03/26/in-depth-user-inactivity-analysis-for-vmware-horizon-environment/)
@@ -51,7 +52,6 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 - [As Built Report for VMware Universal Access Gateway &lpar;UAG&rpar;](https://childebrandt42.blog/2024/02/05/as-built-report-for-vmware-universal-access-gateway-uag/)
 - [Cracking the Code: Navigating VMware’s Lack of API Documentation for App Volumes – One Victory at a Time](https://childebrandt42.blog/2024/01/30/cracking-the-code-navigating-vmwares-lack-of-api-documentation-for-app-volumes-one-victory-at-a-time/)
 - [Unleashing the App Volumes 4.x API via Edge or Chrome, Empowering Operations with PowerShell](https://childebrandt42.blog/2024/01/16/mastering-automation-unleashing-the-app-volumes-4-x-api-via-edge-or-chrome-empowering-operations-with-powershell-for-peak-efficiency/)
-- [As Built Report for VMware App Volumes updated for 2309](https://childebrandt42.blog/2024/01/02/as-built-report-for-vmware-app-volumes-updated-for-2309/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

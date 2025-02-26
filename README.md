@@ -42,6 +42,7 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 
 # :rotating_light: Last 10 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Omnissa OS Optimization Tool &lpar;OSOT&rpar; Build: 12943850210 Not supported on Windows 11 – 24H2!](https://childebrandt42.blog/2025/02/26/omnissa-os-optimization-tool-osot-build-12943850210-not-supported-on-windows-11-24h2/)
 - [Unlocking Secrets: A Guide to Windows Credential Manager in PowerShell](https://childebrandt42.blog/2024/04/23/unlocking-secrets-a-guide-to-windows-credential-manager-in-powershell/)
 - [Commvault Cleanroom Recovery](https://childebrandt42.blog/2024/04/22/commvault-cleanroom-recovery/)
 - [Login Enterprise Custom Session Metrics](https://childebrandt42.blog/2024/04/09/login-enterprise-custom-session-metrics/)
@@ -51,7 +52,6 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 - [App Volumes Usage Report: Decoding the Signals for Retiring Old Applications with Precision](https://childebrandt42.blog/2024/02/13/app-volumes-usage-report-decoding-the-signals-for-retiring-old-applications-with-precision/)
 - [As Built Report for VMware Universal Access Gateway &lpar;UAG&rpar;](https://childebrandt42.blog/2024/02/05/as-built-report-for-vmware-universal-access-gateway-uag/)
 - [Cracking the Code: Navigating VMware’s Lack of API Documentation for App Volumes – One Victory at a Time](https://childebrandt42.blog/2024/01/30/cracking-the-code-navigating-vmwares-lack-of-api-documentation-for-app-volumes-one-victory-at-a-time/)
-- [Unleashing the App Volumes 4.x API via Edge or Chrome, Empowering Operations with PowerShell](https://childebrandt42.blog/2024/01/16/mastering-automation-unleashing-the-app-volumes-4-x-api-via-edge-or-chrome-empowering-operations-with-powershell-for-peak-efficiency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

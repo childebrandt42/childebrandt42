@@ -42,6 +42,7 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 
 # :rotating_light: Last 10 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering vdmadmin.exe Commands: The Ultimate Guide for Omnissa Horizon Administrators](https://childebrandt42.blog/2025/07/14/mastering-vdmadmin-exe-commands-the-ultimate-guide-for-omnissa-horizon-administrators/)
 - [Ultimate Guide to lmvutil Commands for Omnissa Horizon Cloud Pod Architecture](https://childebrandt42.blog/2025/07/07/ultimate-guide-to-lmvutil-commands-for-omnissa-horizon-cloud-pod-architecture/)
 - [Omnissa OS Optimization Tool &lpar;OSOT&rpar; Build: 12943850210 Not supported on Windows 11 – 24H2!](https://childebrandt42.blog/2025/02/26/omnissa-os-optimization-tool-osot-build-12943850210-not-supported-on-windows-11-24h2/)
 - [Unlocking Secrets: A Guide to Windows Credential Manager in PowerShell](https://childebrandt42.blog/2024/04/23/unlocking-secrets-a-guide-to-windows-credential-manager-in-powershell/)
@@ -51,7 +52,6 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 - [Horizon Usage Report: Understanding your users, well maybe!](https://childebrandt42.blog/2024/03/12/horizon-usage-report-understanding-your-users-well-maybe/)
 - [The greatest coding tool to date! GitHub Copilot long term review.](https://childebrandt42.blog/2024/02/27/the-greatest-coding-tool-to-date-github-copilot-long-time-review/)
 - [App Volumes Usage Report: Decoding the Signals for Retiring Old Applications with Precision](https://childebrandt42.blog/2024/02/13/app-volumes-usage-report-decoding-the-signals-for-retiring-old-applications-with-precision/)
-- [As Built Report for VMware Universal Access Gateway &lpar;UAG&rpar;](https://childebrandt42.blog/2024/02/05/as-built-report-for-vmware-universal-access-gateway-uag/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

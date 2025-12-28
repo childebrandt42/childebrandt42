@@ -42,6 +42,7 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 
 # :rotating_light: Last 10 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Commvault Just Dropped a Bomb at SHIFT 2025: Welcome to the Unity Era](https://childebrandt42.blog/2025/12/28/commvault-just-dropped-a-bomb-at-shift-2025-welcome-to-the-unity-era/)
 - [Mastering WinGet Commands: The Ultimate Guide for Windows 11 Power Users](https://childebrandt42.blog/2025/12/11/mastering-winget-commands-the-ultimate-guide-for-windows-11-power-users/)
 - [The Future of VMware Updates: How to Survive the Broadcom Download Token Shift](https://childebrandt42.blog/2025/07/22/the-future-of-vmware-updates-how-to-survive-the-broadcom-download-token-shift/)
 - [Mastering vdmadmin.exe Commands: The Ultimate Guide for Omnissa Horizon Administrators](https://childebrandt42.blog/2025/07/14/mastering-vdmadmin-exe-commands-the-ultimate-guide-for-omnissa-horizon-administrators/)
@@ -51,7 +52,6 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 - [Commvault Cleanroom Recovery](https://childebrandt42.blog/2024/04/22/commvault-cleanroom-recovery/)
 - [Login Enterprise Custom Session Metrics](https://childebrandt42.blog/2024/04/09/login-enterprise-custom-session-metrics/)
 - [In-depth User Inactivity Analysis for VMware Horizon Environment](https://childebrandt42.blog/2024/03/26/in-depth-user-inactivity-analysis-for-vmware-horizon-environment/)
-- [Horizon Usage Report: Understanding your users, well maybe!](https://childebrandt42.blog/2024/03/12/horizon-usage-report-understanding-your-users-well-maybe/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

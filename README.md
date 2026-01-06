@@ -42,6 +42,7 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 
 # :rotating_light: Last 10 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Domain Joins on a Short Leash: Delegating Least-Privilege Rights to Specific OUs &lpar;Before Your Service Accounts Run Wild&rpar;](https://childebrandt42.blog/2026/01/06/domain-joins-on-a-short-leash-delegating-least-privilege-rights-to-specific-ous-before-your-service-accounts-run-wild/)
 - [How to Pull Logs from Horizon Edge Gateway](https://childebrandt42.blog/2025/12/31/how-to-pull-logs-from-horizon-edge-gateway/)
 - [Commvault Just Dropped a Bomb at SHIFT 2025: Welcome to the Unity Era](https://childebrandt42.blog/2025/12/28/commvault-just-dropped-a-bomb-at-shift-2025-welcome-to-the-unity-era/)
 - [Mastering WinGet Commands: The Ultimate Guide for Windows 11 Power Users](https://childebrandt42.blog/2025/12/11/mastering-winget-commands-the-ultimate-guide-for-windows-11-power-users/)
@@ -51,7 +52,6 @@ I do a fair bit of blogging and write-ups on code written here at my website is:
 - [Omnissa OS Optimization Tool &lpar;OSOT&rpar; Build: 12943850210 Not supported on Windows 11 – 24H2!](https://childebrandt42.blog/2025/02/26/omnissa-os-optimization-tool-osot-build-12943850210-not-supported-on-windows-11-24h2/)
 - [Unlocking Secrets: A Guide to Windows Credential Manager in PowerShell](https://childebrandt42.blog/2024/04/23/unlocking-secrets-a-guide-to-windows-credential-manager-in-powershell/)
 - [Commvault Cleanroom Recovery](https://childebrandt42.blog/2024/04/22/commvault-cleanroom-recovery/)
-- [Login Enterprise Custom Session Metrics](https://childebrandt42.blog/2024/04/09/login-enterprise-custom-session-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
